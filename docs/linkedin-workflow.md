@@ -27,7 +27,7 @@ LinkedIn's algorithm suppresses posts that contain external links in the body te
 1. Publish LinkedIn post (no link in body)
 2. Within 30 seconds: add comment with "Full newsletter + subscribe link: [your Substack URL]"
 
-[Narrareach](https://narrareach.com) handles this automatically when cross-posting.
+[Narrareach](https://narrareach.com/features/cross-post-linkedin) handles this automatically when cross-posting.
 
 ### Rule 2: First 150 characters are the only characters that matter initially
 
@@ -132,7 +132,7 @@ Suggested schedule:
 
 The most important metric: **Substack subscribe link clicks per post.** Track this with UTM parameters (`?utm_source=linkedin&utm_campaign=post-date`).
 
-[Narrareach](https://narrareach.com) provides automated cross-platform attribution so you can see exactly which LinkedIn post drove each new Substack subscriber.
+[Narrareach](https://narrareach.com/features/cross-post-linkedin) provides automated cross-platform attribution so you can see exactly which LinkedIn post drove each new Substack subscriber.
 
 ---
 

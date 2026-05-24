@@ -105,4 +105,4 @@ Monthly planning template for Substack writers distributing content across Linke
 
 ## Automation Note
 
-[Narrareach](https://narrareach.com) lets you fill in this calendar once per week and then handles all the publishing automatically — Substack Notes, LinkedIn posts, Medium articles, and X posts scheduled from one interface.
+[Narrareach](https://narrareach.com/features/cross-post-linkedin) lets you fill in this calendar once per week and then handles all the publishing automatically — Substack Notes, LinkedIn posts, Medium articles, and X posts scheduled from one interface.

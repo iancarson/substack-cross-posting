@@ -139,7 +139,7 @@ Medium renders Markdown differently than Substack. Review headings, blockquotes,
 
 ## Time Estimates
 
-| Task | Manual Time | With [Narrareach](https://narrareach.com) |
+| Task | Manual Time | With [Narrareach](https://narrareach.com/features/cross-post-linkedin) |
 |---|---|---|
 | Adapt Note for LinkedIn | 5–8 min | 1–2 min (Narrareach pre-formats) |
 | Adapt Note for X | 3–5 min | 1 min |

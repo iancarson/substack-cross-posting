@@ -20,7 +20,7 @@ Log into Medium → New Story → paste content → set canonical URL → publis
 **Time cost:** 15–30 minutes per article.
 
 ### 2. Narrareach (Automated)
-[Narrareach](https://narrareach.com) uses Medium's authenticated publishing workflow rather than depending on new API tokens. It authenticates using your Medium session and publishes articles programmatically — the same way your browser would.
+[Narrareach](https://narrareach.com/features/cross-post-linkedin) uses Medium's authenticated publishing workflow rather than depending on new API tokens. It authenticates using your Medium session and publishes articles programmatically — the same way your browser would.
 
 Your article appears on Medium exactly as if you posted it manually. Narrareach also automatically sets canonical URLs and appends your subscribe CTA.
 
@@ -80,7 +80,7 @@ Add one of these at the end of every Medium article:
 
 ## Full Automation Setup
 
-For automated Medium publishing with canonical URL handling and CTA insertion, use [Narrareach](https://narrareach.com):
+For automated Medium publishing with canonical URL handling and CTA insertion, use [Narrareach](https://narrareach.com/features/cross-post-linkedin):
 
 1. Connect your Medium account to Narrareach (takes 2 minutes)
 2. Write or import your article
